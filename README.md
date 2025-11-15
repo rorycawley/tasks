@@ -1,8 +1,3 @@
-Here is the full API specification formatted in Markdown for your `README.md` file.
-
-You can copy and paste the entire block below directly into your file.
-
-````markdown
 # Task API — Full Specification (Stripe-Style)
 
 ## Overview
