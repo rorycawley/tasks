@@ -461,5 +461,3 @@ Authorization: Bearer sk_test_xxx
 
 After deletion, `GET /tasks/{id}` → `404 resource_missing`.
 
-```
-```
